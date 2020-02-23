@@ -7,6 +7,7 @@ This the EFI folder of my current hackintosh setup on my Acer Swift 3 (EU Versio
  - Download the following softwares 
 
 > headkaze's [Hackintool](https://github.com/headkaze/Hackintool)
+
 > corptnewt's [ProperTree](https://github.com/corpnewt/ProperTree) and [MountEFI](https://github.com/corpnewt/MountEFI)
 
  - Use the hackintool to get a serial number and a following board number that fits with the model **MacBookPro14,2** (This is important, setups based on other models' codes don't work well)
